@@ -1,4 +1,4 @@
-# purchase bar component
+# Stock Trading Application: Purchase Bar Component
 Created purchase bar component modeled after the RobinHood website.
 
 ### -npm install
@@ -7,5 +7,5 @@ install necessary npm packages
 create webpack bundle
 ### -npm start
 starts server running on port 3000
-### npm run seed
+### -npm run seed
 seeds database with mock data using Faker.js
