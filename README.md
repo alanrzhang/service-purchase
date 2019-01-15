@@ -1,7 +1,7 @@
 # purchase bar component
 Created purchase bar component modeled after the RobinHood website.
 
-# -npm install
+## -npm install
 install necessary npm packages
 # -npm run react-dev
 create webpack bundle
