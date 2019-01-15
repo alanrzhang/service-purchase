@@ -1,11 +1,11 @@
 # purchase bar component
 Created purchase bar component modeled after the RobinHood website.
 
-## -npm install
+### -npm install
 install necessary npm packages
-# -npm run react-dev
+### -npm run react-dev
 create webpack bundle
-# -npm start
+### -npm start
 starts server running on port 3000
-# npm run seed
+### npm run seed
 seeds database with mock data using Faker.js
